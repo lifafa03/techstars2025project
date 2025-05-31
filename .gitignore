@@ -1,0 +1,37 @@
+# Node modules
+/node_modules/
+
+# Next.js build output
+/.next/
+/out/
+
+# If you ever build to a custom directory (e.g. 'dist')
+/dist/
+
+# Vercel (or other hosting) build logs or caches
+/.vercel/
+.vercel/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (never commit your .env files)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac, Linux, Windows file system artifacts
+.DS_Store
+Thumbs.db
+
+# Editor folders (example: VS Code)
+/.vscode/
+
+# If you generate ESLint cache
+.eslintcache
+
+# If you generate stylelint cache
+.stylelintcache
